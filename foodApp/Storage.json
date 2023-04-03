@@ -1,0 +1,233 @@
+[
+    {
+        "restaurantName" : "SweetHouse",
+        "restaurantInfo" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "restaurantImage" : "SweetHouse.jpg",
+        "foodList" : [
+                {   "foodName" : "Havuc Fistiqli Dondurma",
+                    "foodImage" : "HavucFistiqliDondurma.jpg",
+                    "foodPrice" : 5,
+                    "foodPurchaseAmount" : 0
+                },
+                {   "foodName" : "Kadayif",
+                    "foodImage" : "Kadayif.jpg",
+                    "foodPrice" : 5,
+                    "foodPurchaseAmount" : 0
+                },
+                {   "foodName" : "Milli Badamli Paxlava",
+                    "foodImage" : "MilliBadamliPaxlava.jpg",
+                    "foodPrice" : 5,
+                    "foodPurchaseAmount" : 0
+                },
+                {   "foodName" : "Milli Findiqli Paxlava",
+                    "foodImage" : "MilliFindiqliPaxlava.jpg",
+                    "foodPrice" : 5,
+                    "foodPurchaseAmount" : 0
+                },
+                {   "foodName" : "Milli Qozlu Paxlava",
+                    "foodImage" : "MilliQozluPaxlava.jpg",
+                    "foodPrice" : 5,
+                    "foodPurchaseAmount" : 0
+                },
+                {   "foodName" : "Milli Shokoladli Paxlava",
+                    "foodImage" : "MilliShokoladliPaxlava.jpg",
+                    "foodPrice" : 5,
+                    "foodPurchaseAmount" : 0
+                },
+                {   "foodName" : "Shekerbura",
+                    "foodImage" : "Shekerbura.jpg",
+                    "foodPrice" : 5,
+                    "foodPurchaseAmount" : 0
+                },
+                {   "foodName" : "Soyuq Paxlava",
+                    "foodImage" : "SoyuqPaxlava.jpg",
+                    "foodPrice" : 5,
+                    "foodPurchaseAmount" : 0
+                },
+                {   "foodName" : "Turk Paxlavasi",
+                    "foodImage" : "TurkPaxlavasi.jpg",
+                    "foodPrice" : 5,
+                    "foodPurchaseAmount" : 0
+                }
+        ]
+    },
+    
+    {
+        "restaurantName" : "SouceHouse",
+        "restaurantInfo" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "restaurantImage" : "SouceHouse.jpg",
+        "foodList" : [
+                {   "foodName" : "Balli Xardalli Sous",
+                    "foodImage" : "BalliXardalliSous.jpg",
+                    "foodPrice" : 5,
+                    "foodPurchaseAmount" : 0
+                },
+                {   "foodName" : "Balzamik Sousu",
+                    "foodImage" : "BalzamikSousu.jpg",
+                    "foodPrice" : 5,
+                    "foodPurchaseAmount" : 0
+                },
+                {   "foodName" : "Cheddar Pendirli Sous",
+                    "foodImage" : "CheddarPendirliSous.jpg",
+                    "foodPrice" : 5,
+                    "foodPurchaseAmount" : 0
+                },
+                {   "foodName" : "Ketchup",
+                    "foodImage" : "Ketchup.jpg",
+                    "foodPrice" : 5,
+                    "foodPurchaseAmount" : 0
+                },
+                {   "foodName" : "Mayonez",
+                    "foodImage" : "Mayonez.jpg",
+                    "foodPrice" : 5,
+                    "foodPurchaseAmount" : 0
+                },
+                {   "foodName" : "Qaymaqli Pizza Sousu",
+                    "foodImage" : "QaymaqliPizzaSousu.jpg",
+                    "foodPrice" : 5,
+                    "foodPurchaseAmount" : 0
+                },
+                {   "foodName" : "Sarimsaqli Sous",
+                    "foodImage" : "SarimsaqliSous.jpg",
+                    "foodPrice" : 5,
+                    "foodPurchaseAmount" : 0
+                },
+                {   "foodName" : "Sezar Sousu",
+                    "foodImage" : "SezarSousu.jpg",
+                    "foodPrice" : 5,
+                    "foodPurchaseAmount" : 0
+                },
+                {   "foodName" : "Shirin Chili Sousu",
+                    "foodImage" : "ShirinChiliSousu.jpg",
+                    "foodPrice" : 5,
+                    "foodPurchaseAmount" : 0
+                },
+                {   "foodName" : "Soya Sousu",
+                    "foodImage" : "SoyaSousu.jpg",
+                    "foodPrice" : 5,
+                    "foodPurchaseAmount" : 0
+                },
+                {   "foodName" : "Tabasko Sousu",
+                    "foodImage" : "TabaskoSousu.jpg",
+                    "foodPrice" : 5,
+                    "foodPurchaseAmount" : 0
+                }
+        ]
+    },
+    
+    {
+        "restaurantName" : "SnackHouse",
+        "restaurantInfo" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "restaurantImage" : "SnackHouse.jpg",
+        "foodList" : [
+                {   "foodName" : "Amerikan Seher Yemeyi",
+                    "foodImage" : "AmerikanSeherYemeyi.jpg",
+                    "foodPrice" : 5,
+                    "foodPurchaseAmount" : 0
+                },
+                {   "foodName" : "Ingilis Seher Yemeyi",
+                    "foodImage" : "IngilisSeherYemeyi.jpg",
+                    "foodPrice" : 5,
+                    "foodPurchaseAmount" : 0
+                },
+                {   "foodName" : "Isti Seher Yemeyi",
+                    "foodImage" : "IstiSeherYemeyi.jpg",
+                    "foodPrice" : 5,
+                    "foodPurchaseAmount" : 0
+                },
+                {   "foodName" : "Kartof Fri",
+                    "foodImage" : "KartofFri.jpg",
+                    "foodPrice" : 5,
+                    "foodPurchaseAmount" : 0
+                },
+                {   "foodName" : "Kartof Fri Alma Dilimli",
+                    "foodImage" : "KartofFriAlmaDilimli.jpg",
+                    "foodPrice" : 5,
+                    "foodPurchaseAmount" : 0
+                },
+                {   "foodName" : "Krevet Tempura",
+                    "foodImage" : "KrevetTempura.jpg",
+                    "foodPrice" : 5,
+                    "foodPurchaseAmount" : 0
+                },
+                {   "foodName" : "Mozzarella Fingers",
+                    "foodImage" : "MozzarellaFingers.jpg",
+                    "foodPrice" : 5,
+                    "foodPurchaseAmount" : 0
+                },
+                {   "foodName" : "Simit Seher Yemeyi",
+                    "foodImage" : "SimitSeherYemeyi.jpg",
+                    "foodPrice" : 5,
+                    "foodPurchaseAmount" : 0
+                },
+                {   "foodName" : "Toyuq Kroketleri",
+                    "foodImage" : "ToyuqKroketleri.jpg",
+                    "foodPrice" : 5,
+                    "foodPurchaseAmount" : 0
+                },
+                {   "foodName" : "Toyuq Nagets",
+                    "foodImage" : "ToyuqNagets.jpg",
+                    "foodPrice" : 5,
+                    "foodPurchaseAmount" : 0
+                },
+                {   "foodName" : "Toyuq Strips Set",
+                    "foodImage" : "ToyuqStripsSet.jpg",
+                    "foodPrice" : 5,
+                    "foodPurchaseAmount" : 0
+                }
+        ]
+    },
+    
+    {
+        "restaurantName" : "SalatHouse",
+        "restaurantInfo" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "restaurantImage" : "SalatHouse.jpg",
+        "foodList" : [
+                {   "foodName" : "Aruqula Salati",
+                    "foodImage" : "AruqulaSalati.jpg",
+                    "foodPrice" : 5,
+                    "foodPurchaseAmount" : 0
+                },
+                {   "foodName" : "Choban Salati",
+                    "foodImage" : "ChobanSalati.jpg",
+                    "foodPrice" : 5,
+                    "foodPurchaseAmount" : 0
+                },
+                {   "foodName" : "Krispi Toyuq Salati",
+                    "foodImage" : "KrispiToyuqSalati.jpg",
+                    "foodPrice" : 5,
+                    "foodPurchaseAmount" : 0
+                },
+                {   "foodName" : "Popkorn Salati",
+                    "foodImage" : "PopkornSalati.jpg",
+                    "foodPrice" : 5,
+                    "foodPurchaseAmount" : 0
+                },
+                {   "foodName" : "Santa Fe Chiken Salati",
+                    "foodImage" : "SantaFeChikenSalati.jpg",
+                    "foodPrice" : 5,
+                    "foodPurchaseAmount" : 0
+                },
+                {   "foodName" : "Sezar Salati",
+                    "foodImage" : "SezarSalati.jpg",
+                    "foodPrice" : 5,
+                    "foodPurchaseAmount" : 0
+                },
+                {   "foodName" : "Sezar Salati Krevet",
+                    "foodImage" : "SezarSalatiKrevet.jpg",
+                    "foodPrice" : 5,
+                    "foodPurchaseAmount" : 0
+                },
+                {   "foodName" : "Steyk Salati",
+                    "foodImage" : "SteykSalati.jpg",
+                    "foodPrice" : 5,
+                    "foodPurchaseAmount" : 0
+                },
+                {   "foodName" : "Toyuq Salati",
+                    "foodImage" : "ToyuqSalati.jpg",
+                    "foodPrice" : 5,
+                    "foodPurchaseAmount" : 0
+                }
+        ]
+    }
+]
